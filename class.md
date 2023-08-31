@@ -1,2 +1,3 @@
 # Attendance Check
-Musa Cekcen
+Vladyslav Bakumenko
+Shinhee Chae
